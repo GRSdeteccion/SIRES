@@ -117,4 +117,4 @@ SPECTACULAR_SETTINGS = {
 }
 
 #
-CSRF_TRUSTED_ORIGINS = ['http://*', 'https://*']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-7b0b.up.railway.app']
