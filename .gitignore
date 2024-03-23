@@ -4,6 +4,7 @@
 .env.dev
 .env.prod
 
+
 # Archivos de base de datos
 db.sqlite3
 
